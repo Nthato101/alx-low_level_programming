@@ -35,7 +35,7 @@ int main(void)
  * main - Prints the last digit of a randomly generated number
  *        and whether it is greater than 5, less than 6, or 0.
  *
- * Return: Always 0.
+ * Return: Always 0(Success)
  */
 int main(void)
 {
@@ -61,5 +61,4 @@ int main(void)
 	}
 
 	return (0);
-
 }
