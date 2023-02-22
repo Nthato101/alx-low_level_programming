@@ -1,16 +1,13 @@
 #include "main.h"
-	/**
-	 * main - print _putchar
-	 * prints _putchar
-	 * Return: 0
-	 */
-
+/**
+* print_alphabet - print all alphabet in lowercase
+*/
 
 	int main(void)
-	{
+	{	
 	_putchar('_');
 	_putchar('p');
-	_putchar('u');
+	_putchar('u');	
 	_putchar('t');
 	_putchar('c');
 	_putchar('h');
